@@ -102,6 +102,7 @@ textarea {
     display: table;
     margin: 0 auto;
     font-family: "Courier New";
+    padding: 0 1rem;
 }
 
 .content h1 {
