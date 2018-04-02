@@ -304,3 +304,8 @@ body {
         page-break-after: avoid;
     }
 }
+
+#message {
+    width: 100%;
+    min-height: 100px;
+}
